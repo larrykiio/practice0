@@ -1,0 +1,10 @@
+div {
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace; }
+  div p {
+    color: greenyellow;
+    font-weight: bold; }
+  div ul {
+    color: red; }
+
+/*# sourceMappingURL=nesting.css.map */
